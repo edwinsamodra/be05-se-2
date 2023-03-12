@@ -1,0 +1,17 @@
+Nama: Edwin Samodra Pratama
+URL : github.com/edwinsamodra
+Algoritma:
+1. Mulai
+2. Berjalan menuju dapur
+2. Mengambil telur yang berada di dapur
+3. Pastikan telurnya masih dalam keadaan baik/tidak pecah/tidak busuk
+4. Mengambil Panci di rak
+5. Mengisi panci dengan air keran secukupnya
+6. Menaruh Panci yang berisi air ke kompor
+7. Menyalakan kompor
+8. Menunggu hingga air mendidih dan masukkan telur
+9. Menunggu hingga telur rebus matang
+10. Meletakkan telur yang sudah matang di piring
+11. Mengupas telur
+12. Makan telur
+13. Selesai
